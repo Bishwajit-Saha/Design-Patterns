@@ -1,0 +1,12 @@
+Simply, proxy means an object representing another object.
+provides the control for accessing the original object thereby it provides the protection to the original object from the outside world. eg: APIs
+
+
+Types:
+1. Virtual Proxy: Demo
+
+2. Protective Proxy: It acts as an authorization layer to verify that whether the actual user has access the appropriate content or not. For example, a proxy server which provides restriction on internet access in office. Only the websites and contents which are valid will be allowed and the remaining ones will be blocked.
+
+3. Remote Proxy
+
+4. Smart Proxy

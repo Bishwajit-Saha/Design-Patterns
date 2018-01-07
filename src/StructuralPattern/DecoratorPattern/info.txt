@@ -1,0 +1,3 @@
+The Decorator Pattern is also known as Wrapper.
+A Decorator Pattern says that just "attach a flexible additional responsibilities to an object dynamically".
+It is used when you want to transparently and dynamically add responsibilities to objects without affecting other objects.

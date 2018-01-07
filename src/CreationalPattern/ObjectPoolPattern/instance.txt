@@ -1,0 +1,5 @@
+Advantage of Object Pool design pattern
+    It boosts the performance of the application significantly.
+    It is most effective in a situation where the rate of initializing a class instance is high.
+    It manages the connections and provides a way to reuse and share them.
+    It can also provide the limit for the maximum number of objects that can be created.
